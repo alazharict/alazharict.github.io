@@ -89,6 +89,7 @@ a.social {
   padding: 26%;
   color: #fff;
   background-color: #1f4492;
+  box-shadow: 0px 0px 30px 30px rgba(255, 255, 255, 0.75);
 }
 
 .transparent {
@@ -100,4 +101,13 @@ a.social {
 }
 .transparent h1 {
   margin: 0;
+}
+
+.alazhar {
+  color: #f0b664;
+  font-family: moonserant;
+}
+
+.bannerbwh {
+  box-shadow: 0px 0px 30px 30px rgba(255, 255, 255, 0.75);
 }
