@@ -28,7 +28,7 @@ body {
 }
 
 nav {
-  background-color: #1f4492;
+  background-color: rgba(0, 0, 0, 0.3);
 }
 
 .btn {
@@ -93,10 +93,10 @@ a.social {
 }
 
 .transparent {
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(0, 0, 0, 0.4);
   font-family: moonserant;
   margin: 0px auto;
-  color: #fff;
+
   text-align: center;
 }
 .transparent h1 {
