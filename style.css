@@ -84,6 +84,8 @@ a.social {
 }
 
 .banner {
+  background: url(img/IMG_0760.JPG) no-repeat center center;
+  background-size: cover;
   padding: 26%;
   color: #fff;
   background-color: #1f4492;
