@@ -1,0 +1,107 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #1f4492;
+}
+
+#projects {
+  background-color: #1f4492;
+}
+
+#about {
+  padding-top: 160px;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.footer {
+  box-sizing: none;
+}
+
+body {
+  background-color: #f0b664;
+}
+
+.form-control {
+  background-color: #f0b664;
+}
+
+footer {
+  background-color: #1f4492;
+}
+
+nav {
+  background-color: #1f4492;
+}
+
+.btn {
+  background-color: #1f4492;
+}
+
+h1 {
+  color: #f0b664;
+  font-style: italic;
+}
+p.lead {
+  color: #f0b664;
+}
+.warna,
+h4 {
+  color: #f0b664;
+}
+.warni {
+  color: #1f4492;
+}
+
+.card-img-top {
+  width: 511px;
+  height: 511px;
+}
+
+.card {
+  width: 512px;
+  height: 512px;
+}
+.besar {
+  width: 511px;
+  height: 451px;
+}
+
+.tim img {
+  width: 250px;
+  border: 10px solid #f0b664;
+}
+a.social {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 50%;
+  background-color: #333;
+  line-height: 40px;
+}
+
+.img-fix {
+  width: 250px;
+  height: 250px;
+}
+
+.banner {
+  background: url(img/IMG_0760.JPG) no-repeat center center;
+  background-size: cover;
+  padding: 26%;
+  color: #fff;
+  background-color: #1f4492;
+}
+
+.transparent {
+  background: rgba(0, 0, 0, 0.3);
+  font-family: moonserant;
+  margin: 0px auto;
+  color: #fff;
+  text-align: center;
+}
+.transparent h1 {
+  margin: 0;
+}
