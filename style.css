@@ -28,7 +28,8 @@ body {
 }
 
 nav {
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: #1f4492;
+  background-color: rgba(0, 0, 0, 0.4);
 }
 
 .btn {
@@ -105,7 +106,6 @@ a.social {
 
 .alazhar {
   color: #f0b664;
-  font-family: moonserant;
 }
 
 .bannerbwh {
