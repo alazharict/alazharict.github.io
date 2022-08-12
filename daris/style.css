@@ -1,0 +1,42 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e5cda7;
+}
+
+#projects {
+  background-color: #e5cda7;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.footer {
+  box-sizing: none;
+}
+
+.dark-bac {
+  background-color: #032a3b;
+}
+
+.light {
+  color: #e5cda7;
+}
+
+.light-back {
+  background-color: #e5cda7;
+}
+
+.dark {
+  color: #032a3b;
+}
+
+.bord {
+  border-color: #032a3b;
+  border-radius: 3px;
+  background-color: #032a3b;
+}
+
+.linkk {
+  text-decoration: none;
+}
